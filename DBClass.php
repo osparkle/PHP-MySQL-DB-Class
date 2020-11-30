@@ -1,6 +1,6 @@
 <?php
 /**
-     * PHP Form Validator class
+     * PHP MySQL DB class
      *
      *
      * @author Simeon Adedokun <femsimade@gmail.com>
